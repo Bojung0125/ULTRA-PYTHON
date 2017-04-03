@@ -1,19 +1,19 @@
 Hi! This repository is Bojung's place for Forif Python assignments.
 
-*Kim Dong Hyun (T) https://github.com/rlrlaa123/forif-python-assignment
+* Kim Dong Hyun (T) https://github.com/rlrlaa123/forif-python-assignment
 
-*Kim Bo Jung https://github.com/Bojung0125/ULTRA-PYTHON
+* Kim Bo Jung https://github.com/Bojung0125/ULTRA-PYTHON
 
-*Song Won Bin https://github.com/swb970728/ForifPython
+* Song Won Bin https://github.com/swb970728/ForifPython
 
-*Lee Tae Wook https://github.com/the-tommy/Forif
+* Lee Tae Wook https://github.com/the-tommy/Forif
 
-*Yang Ji Won
+* Yang Ji Won
 
-*Lee Sang Jin https://github.com/hn04147/FORIF
+* Lee Sang Jin https://github.com/hn04147/FORIF
 
-*Kim Hyun Woo https://github.com/howcanigetyourmind/howcanigetyourheart.git
+* Kim Hyun Woo https://github.com/howcanigetyourmind/howcanigetyourheart.git
 
-*Han Hyung Seo https://github.com/SHORELINESQUARE/TEST
+* Han Hyung Seo https://github.com/SHORELINESQUARE/TEST
 
-*Kim Seung Ik https://github.com/kpic5014/FORIF
+* Kim Seung Ik https://github.com/kpic5014/FORIF
